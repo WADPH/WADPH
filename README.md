@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WADPH</h1>
 <h3 align="center">Just guy who doesn't know what is he wants</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadph" alt="wadph" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadph&theme=onedark" alt="wadph" /></a> </p>
 
 - 🔭 I’m currently working on [PitBank](https://github.com/WADPH/PitBank)
 

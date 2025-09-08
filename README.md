@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PitBank](https://github.com/WADPH/PitBank)
 
-- 🌱 I am learning every lang like **MySQL PHP HMLT CSS C++**
+- 🌱 I am learning every lang like **MySQL PHP HTML CSS C++**
 
 - 👨‍💻 All of my projects are available right there [https://github.com/WADPH](https://github.com/WADPH)
 

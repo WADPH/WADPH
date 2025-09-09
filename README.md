@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadph&theme=onedark" alt="wadph" /></a> </p>
 
-- 🔭 I’m currently working on [PitBank](https://github.com/WADPH/PitBank)
+- 🔭 I’m currently working on [DeautherI2C](https://github.com/WADPH/PitBank](https://github.com/WADPH/DeautherI2C)) and [Arduino-Gaming-Wheel](https://github.com/WADPH/DeautherI2C](https://github.com/WADPH/Arduino-Gaming-Wheel))
 
 - 🌱 I am learning every lang like **MySQL PHP HTML CSS C++**
 

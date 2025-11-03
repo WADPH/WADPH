@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WADPH</h1>
 <h3 align="center">👈(ﾟヮﾟ👈) | (👉ﾟヮﾟ)👉</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadph&theme=onedark" alt="wadph" /></a> </p>
+# <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadph&theme=onedark" alt="wadph" /></a> </p>
 
 - 🔭 I’m currently working on [DeautherI2C](https://github.com/WADPH/PitBank](https://github.com/WADPH/DeautherI2C)) and [Arduino-Gaming-Wheel](https://github.com/WADPH/DeautherI2C](https://github.com/WADPH/Arduino-Gaming-Wheel))
 

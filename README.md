@@ -7,7 +7,7 @@
 
 - 🌱 I am learning every lang like **MySQL PHP HTML CSS C++**
 
-- 👨‍💻 All of my projects are available right there [https://github.com/WADPH](https://github.com/WADPH)
+- 👨‍💻 All of my projects are available right on the [Github](https://github.com/WADPH)
 
 - 📫 How to reach me **foreverforadil@gmail.com** | [Telegram](https://t.me/wadph)
 

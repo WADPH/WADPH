@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available right there [https://github.com/WADPH](https://github.com/WADPH)
 
-- 📫 How to reach me **foreverforadil@gmail.com**
+- 📫 How to reach me **foreverforadil@gmail.com** | [Telegram](https://t.me/wadph)
 
 
 <h3 align="left">Languages and Tools:</h3>

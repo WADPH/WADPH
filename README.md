@@ -1,16 +1,40 @@
 <h1 align="center">Hi 👋, I'm WADPH</h1>
 <h3 align="center">👈(ﾟヮﾟ👈) | (👉ﾟヮﾟ)👉</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadph&theme=onedark" alt="wadph" /></a> </p> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wadph&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on [Wadboard](https://github.com/WADPH/wadboard)
+---
 
-- 🌱 I am learning every lang like **MySQL PHP HTML CSS C++**
+### 🚀 About Me
+- 🔭 I’m currently working on <a href="https://github.com/WADPH/wadboard">Wadboard</a>  
+- 🌱 Learning: <b>MySQL, PHP, HTML, CSS, C++, JavaScript, Node.js</b>  
+- 👨‍💻 All projects: <a href="https://github.com/WADPH">GitHub</a>  
+- 📫 Contact: <b>foreverforadil@gmail.com</b> | <a href="https://t.me/wadph">Telegram</a>
 
-- 👨‍💻 All of my projects are available right on the [Github](https://github.com/WADPH)
+---
 
-- 📫 How to reach me **foreverforadil@gmail.com** | [Telegram](https://t.me/wadph)
+### 🛠️ Languages and Tools
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wadph&theme=tokyonight" />
+</p>
+
+---

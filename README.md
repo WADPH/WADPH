@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on <a href="https://github.com/WADPH/wadboard">Wadboard</a>  
-- 🌱 Learning: <b>MySQL, PHP, HTML, CSS, C++, JavaScript, Node.js</b>  
+- 🔭 I’m currently working on <a href="https://github.com/WADPH/wadboard">Wadboard</a> and <a href="https://github.com/WADPH/Wadbudget">Wadbudget</a>
+- 🌱 Basic skills in: <b>MySQL, PHP, HTML, CSS, C++, JavaScript, Node.js, Docker, Virtualisation, Linux/Windows Administration and Arduino Skills</b>  
 - 👨‍💻 All projects: <a href="https://github.com/WADPH">GitHub</a>  
 - 📫 Contact: <b>foreverforadil@gmail.com</b> | <a href="https://t.me/wadph">Telegram</a>
 
